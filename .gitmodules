@@ -1,0 +1,3 @@
+[submodule "resources/online-interiors"]
+	path = resources/online-interiors
+	url = https://github.com/cloudy-develop/online-interiors.git

@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CMapData>
+  <name p2:nil="true" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance" />
+  <parent p2:nil="true" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance" />
+  <flags value="0" />
+  <contentFlags value="65" />
+  <streamingExtentsMin x="-10947.0342" y="-13534.9775" z="-984.484131" />
+  <streamingExtentsMax x="9052.966" y="6465.02246" z="5015.51563" />
+  <entitiesExtentsMin x="-10947.0342" y="-13534.9775" z="-984.484131" />
+  <entitiesExtentsMax x="9052.966" y="6465.02246" z="5015.51563" />
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-953.812" y="-3509.70264" z="16.2198219" />
+      <rotation x="-0" y="0" z="-0.965394139" w="0.260795265" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-952.316162" y="-3528.82861" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09gate1</archetypeName>
+      <flags value="1572865" />
+      <guid value="0" />
+      <position x="-913.083435" y="-3534.96973" z="14.1924" />
+      <rotation x="0" y="-0" z="-0.500000238" w="0.866025269" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampa</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-945.7814" y="-3531.86963" z="13.6526041" />
+      <rotation x="0.705765247" y="-0.04353608" z="0.04353608" w="0.705765247" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-968.510742" y="-3531.92871" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-927.422241" y="-3531.53125" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampa</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-945.1207" y="-3531.198" z="13.6526041" />
+      <rotation x="0.461245567" y="0.5359594" z="-0.5359594" w="0.461245567" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-963.0121" y="-3535.332" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-957.214966" y="-3525.82568" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09e</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-912.5028" y="-3533.958" z="12.819973" />
+      <rotation x="0" y="-0" z="-0.500000238" w="0.866025269" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-946.331" y="-3530.36938" z="13.6523666" />
+      <rotation x="0.208636254" y="-0.675626338" z="0.675626338" w="0.208636254" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-958.213257" y="-3538.23486" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-938.7634" y="-3525.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-949.6302" y="-3530.46948" z="13.6523666" />
+      <rotation x="0.516404331" y="-0.483038872" z="0.483038872" w="0.516404331" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-946.716064" y="-3545.2417" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-962.5137" y="-3522.52246" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-957.7634" y="-3539.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-940.7175" y="-3548.84521" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-943.7634" y="-3522.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-948.7634" y="-3519.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-952.3147" y="-3541.83838" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-953.7634" y="-3516.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-961.1888" y="-3512.248" z="16.2198219" />
+      <rotation x="0" y="0" z="0.8651692" w="0.50148" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-958.7634" y="-3513.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-943.7634" y="-3535.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-967.092468" y="-3522.55737" z="16.2198219" />
+      <rotation x="0" y="0" z="0.8651692" w="0.50148" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-937.7634" y="-3538.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-971.1927" y="-3529.7168" z="16.2198219" />
+      <rotation x="0" y="0" z="0.8651692" w="0.50148" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-957.314941" y="-3513.21338" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-932.7634" y="-3541.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-937.7634" y="-3550.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09frame</archetypeName>
+      <flags value="1572865" />
+      <guid value="0" />
+      <position x="-974.3292" y="-3547.57959" z="12.887311" />
+      <rotation x="0" y="0" z="0.258819073" w="0.9659258" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-951.9733" y="-3532.03833" z="13.7868547" />
+      <rotation x="0.3143747" y="0.6806321" z="-0.515159965" w="0.415353626" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-941.7634" y="-3548.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_wall_lampa</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-955.4267" y="-3534.53564" z="13.6349468" />
+      <rotation x="2.09206852E-09" y="-1.55802982E-09" z="-0.8020237" w="0.5972922" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_wall_lampa</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-940.7603" y="-3532.69238" z="13.6349459" />
+      <rotation x="7.04401026E-09" y="6.21179774E-09" z="0.750023" w="0.661411762" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_wall_lampa</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-944.5175" y="-3538.432" z="13.6349459" />
+      <rotation x="0" y="0" z="0.9466366" w="0.3223029" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09gate1</archetypeName>
+      <flags value="1572865" />
+      <guid value="0" />
+      <position x="-971.614868" y="-3549.152" z="14.2727432" />
+      <rotation x="0" y="0" z="0.258819073" w="0.9659258" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-935.5188" y="-3551.84814" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-950.7192" y="-3530.53955" z="14.7223911" />
+      <rotation x="-0" y="0" z="-0.9695999" w="0.2446959" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-946.199768" y="-3532.1875" z="16.1573772" />
+      <rotation x="0.141225189" y="0.559599936" z="-0.7918155" w="0.199828923" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-969.076355" y="-3538.06616" z="16.2198219" />
+      <rotation x="-0" y="0" z="0.25796032" w="0.9661555" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampa</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-950.509155" y="-3529.98682" z="13.6496029" />
+      <rotation x="0.695898056" y="-0.1254029" z="0.1254029" w="0.695898056" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampa</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-950.8401" y="-3531.004" z="13.7716084" />
+      <rotation x="-0.113019586" y="-0.6073056" z="0.7827059" w="-0.07601295" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09e</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-970.6739" y="-3549.69019" z="12.887311" />
+      <rotation x="0" y="0" z="0.258819073" w="0.9659258" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampa</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-951.4485" y="-3531.188" z="13.7785959" />
+      <rotation x="0.747702837" y="0.237786844" z="-0.34524554" w="0.514979" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-959.063965" y="-3543.825" z="16.2198219" />
+      <rotation x="-0" y="0" z="0.25796032" w="0.9661555" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-930.020142" y="-3542.33887" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-949.337158" y="-3549.41919" z="16.2198219" />
+      <rotation x="-0" y="0" z="0.25796032" w="0.9661555" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-949.381653" y="-3535.453" z="13.752367" />
+      <rotation x="0.5220782" y="-0.4271324" z="0.340420485" w="0.65506196" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-947.5208" y="-3534.356" z="13.752367" />
+      <rotation x="-0.357123673" y="-0.572100163" z="0.693384647" w="-0.253735721" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-948.3802" y="-3535.02759" z="14.9223957" />
+      <rotation x="-0" y="0" z="-0.9695999" w="0.2446959" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-947.6717" y="-3534.27759" z="16.3773785" />
+      <rotation x="0.5363858" y="-0.213057861" z="0.301465273" w="0.75895673" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-951.308533" y="-3535.34985" z="13.6583691" />
+      <rotation x="0.355821252" y="-0.61105746" z="0.61105746" w="0.355821252" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09e</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-925.3202" y="-3556.15845" z="12.819973" />
+      <rotation x="0" y="-0" z="-0.500000238" w="0.866025269" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-925.1228" y="-3532.93262" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-952.416138" y="-3516.21631" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09e</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-959.6314" y="-3556.06567" z="12.887311" />
+      <rotation x="0" y="0" z="0.258819073" w="0.9659258" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09e</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-948.5892" y="-3562.44116" z="12.887311" />
+      <rotation x="0" y="0" z="0.258819073" w="0.9659258" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09e</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-931.7126" y="-3567.23047" z="12.819973" />
+      <rotation x="0" y="-0" z="-0.500000238" w="0.866025269" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-927.1228" y="-3531.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09crnr1</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-937.5467" y="-3568.81616" z="12.887311" />
+      <rotation x="0" y="0" z="0.258819073" w="0.9659258" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-950.861" y="-3531.059" z="14.8523941" />
+      <rotation x="0.199139267" y="0.152021557" z="0.769514143" w="0.5874359" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-947.3174" y="-3519.31934" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-945.7634" y="-3544.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-952.7634" y="-3542.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-943.1184" y="-3521.92188" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-938.2196" y="-3524.9248" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09d</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-918.921" y="-3545.07471" z="12.819973" />
+      <rotation x="0" y="-0" z="-0.500000238" w="0.866025269" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>xm_prop_lab_tube_lampb</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-945.7104" y="-3531.28027" z="14.7223911" />
+      <rotation x="-0" y="0" z="-0.9695999" w="0.2446959" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-935.5188" y="-3539.03564" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-941.6136" y="-3553.86328" z="16.2198219" />
+      <rotation x="-0" y="0" z="0.25796032" w="0.9661555" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-933.184143" y="-3551.54834" z="16.2198219" />
+      <rotation x="0" y="-0" z="-0.5013602" w="0.865238667" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-932.621" y="-3528.32813" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-962.7634" y="-3537.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09d</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-981.7161" y="-3543.3147" z="12.887311" />
+      <rotation x="0" y="0" z="0.258819073" w="0.9659258" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-940.7175" y="-3535.83252" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-969.7634" y="-3532.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-967.7634" y="-3533.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-965.7634" y="-3523.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-928.589" y="-3543.53027" z="16.2198219" />
+      <rotation x="0" y="-0" z="-0.5013602" w="0.865238667" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-923.173035" y="-3534.08032" z="16.2198219" />
+      <rotation x="0" y="-0" z="-0.5013602" w="0.865238667" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-949.770264" y="-3531.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-932.7634" y="-3528.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_fnclink_09frame</archetypeName>
+      <flags value="1572865" />
+      <guid value="0" />
+      <position x="-914.6561" y="-3537.68774" z="12.819973" />
+      <rotation x="0" y="-0" z="-0.500000238" w="0.866025269" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-960.7634" y="-3526.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-925.3029" y="-3526.32886" z="16.2198238" />
+      <rotation x="-0" y="0" z="-0.965394139" w="0.260795265" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-954.7634" y="-3529.93262" z="13.4085655" />
+      <rotation x="-0.6082113" y="-0.360664725" z="-0.360664725" w="0.6082113" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-946.7175" y="-3532.232" z="19.9485779" />
+      <rotation x="0.6164502" y="0.346394539" z="-0.346394539" w="0.6164502" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-934.4261" y="-3521.00928" z="16.2198219" />
+      <rotation x="-0" y="0" z="-0.965394139" w="0.260795265" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_huge_display_01</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="-943.8341" y="-3515.522" z="16.2198219" />
+      <rotation x="-0" y="0" z="-0.965394139" w="0.260795265" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+  </entities>
+  <containerLods />
+  <boxOccluders />
+  <occludeModels />
+  <physicsDictionaries />
+  <instancedData />
+  <timeCycleModifiers />
+  <carGenerators>
+    <Item>
+      <popGroup />
+      <position x="-948.6104" y="-3532.44971" z="14.1232109" />
+      <orientX value="-1.46881938" />
+      <orientY value="0.304246932" />
+      <perpendicularLength value="1.5" />
+      <carModel>rx7fdbn</carModel>
+      <flags value="3680" />
+      <bodyColorRemap1 value="-1" />
+      <bodyColorRemap2 value="-1" />
+      <bodyColorRemap3 value="-1" />
+      <bodyColorRemap4 value="-1" />
+      <livery value="-1" />
+    </Item>
+    <Item>
+      <popGroup />
+      <position x="-935.5358" y="-3532.82324" z="14.6074095" />
+      <orientX value="1.44993246" />
+      <orientY value="0.3843122" />
+      <perpendicularLength value="1.5" />
+      <carModel>Trailer</carModel>
+      <flags value="3680" />
+      <bodyColorRemap1 value="-1" />
+      <bodyColorRemap2 value="-1" />
+      <bodyColorRemap3 value="-1" />
+      <bodyColorRemap4 value="-1" />
+      <livery value="-1" />
+    </Item>
+  </carGenerators>
+  <LodLightsSoa />
+  <DistantLodLightsSoa />
+  <block>
+    <version value="0" />
+    <flags value="0" />
+    <time>15 September 2021 3:49</time>
+  </block>
+</CMapData>

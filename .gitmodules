@@ -1,3 +1,6 @@
 [submodule "resources/online-interiors"]
 	path = resources/online-interiors
 	url = https://github.com/cloudy-develop/online-interiors.git
+[submodule "resources/DiamondHeistCars"]
+	path = resources/DiamondHeistCars
+	url = https://github.com/MightyLAD/DiamondHeistCars.git
